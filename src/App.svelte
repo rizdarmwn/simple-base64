@@ -332,6 +332,10 @@
       </div>
     </div>
   {/if}
+  <footer>
+    Made by Rizdar, with sweat and tears and time and no sleep and anything and
+    everything.
+  </footer>
 </main>
 
 <style>
