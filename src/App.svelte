@@ -333,8 +333,10 @@
     </div>
   {/if}
   <footer>
-    Made by Rizdar, with sweat and tears and time and no sleep and anything and
-    everything.
+    <p class="mb-4 text-center">
+      Made by Rizdar, with sweat and tears and time and no sleep and anything
+      and everything (i'm joking (maybe)).
+    </p>
   </footer>
 </main>
 
